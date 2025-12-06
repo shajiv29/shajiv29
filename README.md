@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sazibur Rahman
+<!-- TITLE --> <h1 align="center">👋 Hi, I'm <span style="color:#4DD0E1;">Md Sazibur Rahman</span></h1> <h3 align="center">Software Developer • Backend Engineer • Django Expert</h3>
 
 <div align="center">
   
