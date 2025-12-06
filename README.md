@@ -140,7 +140,7 @@ Started my journey building mobile automation frameworks and device-level testin
 **🎓 Bachelor of Science in Computer Science & Engineering**  
 *Daffodil International University*
 
-**📜 Diploma in Engineering - Civil Engineering**  
+**📜 Diploma in Engineering - Computer Engineering**  
 *Feni Polytechnic Institute*
 
 ---
